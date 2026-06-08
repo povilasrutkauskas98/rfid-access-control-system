@@ -1,6 +1,6 @@
 # RFID/NFC Access Control System
 
-Bachelor project: embedded RFID/NFC access control system with custom reader PCB, passive identification card PCB, STM32F407VG firmware, ST25R3911 reader module, ENC28J60 Ethernet module and a simple HTTP interface for displaying access events.
+Embedded RFID/NFC access control system with custom reader PCB, passive identification card PCB, STM32F407VG firmware, ST25R3911 reader module, ENC28J60 Ethernet module and a simple HTTP interface for displaying access events.
 
 ## Features
 - Custom 13.56 MHz RFID/NFC antenna design
