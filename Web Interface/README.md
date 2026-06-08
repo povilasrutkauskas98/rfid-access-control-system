@@ -51,5 +51,7 @@ Embedded web page source used by the HTTP server.
 ## Web Interface
 
 <img width="889" height="285" alt="image" src="https://github.com/user-attachments/assets/be417db1-d89b-4f36-a4ee-dd25644509a9" />
+<img width="602" height="278" alt="image" src="https://github.com/user-attachments/assets/3c5cb0ca-28ca-4a01-9dcc-ac63d00259f5" />
+
 
 Access control information displayed in a web browser.
