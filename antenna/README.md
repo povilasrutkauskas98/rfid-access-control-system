@@ -37,6 +37,8 @@ The antenna was successfully tuned to 13.56 MHz and validated using ST25R3911 an
 <img width="640" height="393" alt="image" src="https://github.com/user-attachments/assets/9ca74490-d3b2-4514-8aee-9bee2017a222" />
 <img width="367" height="172" alt="image" src="https://github.com/user-attachments/assets/a6eaec4f-b321-4259-90e7-34fbab10265c" />
 <img width="389" height="347" alt="image" src="https://github.com/user-attachments/assets/1bdd178e-8fca-429b-8386-fa8ea124f92c" />
+<img width="394" height="355" alt="image" src="https://github.com/user-attachments/assets/360aab22-3a84-4177-9a0a-b988c660b29a" />
+
 
 
 
