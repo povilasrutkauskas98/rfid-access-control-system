@@ -7,6 +7,8 @@ The access control system was designed to read RFID/NFC identification cards, pr
 The system is powered from a 12 V DC source. A regulated 3.3 V supply rail is generated using an LM317 adjustable voltage regulator, providing power for the microcontroller, RFID reader, and Ethernet interface.
 
 The output voltage was calculated according to the LM317 datasheet and configured for 3.3 V operation using an external resistor divider. Additional filtering capacitors were added to reduce power supply noise and improve system stability.
+<img width="808" height="339" alt="image" src="https://github.com/user-attachments/assets/f0272a57-2ce6-4236-a204-c2beceac621a" />
+
 
 ### Ethernet Interface
 
@@ -21,6 +23,8 @@ Key features:
 * RJ45 Ethernet connectivity
 * 10 MHz crystal oscillator
 * External network access for event reporting
+ <img width="951" height="676" alt="image" src="https://github.com/user-attachments/assets/0e3f11fb-ffad-47bc-9e39-ddc6b4e60d90" />
+
 
 ### Microcontroller
 
@@ -43,6 +47,8 @@ The microcontroller is responsible for:
 * Processing user identification data
 * Managing Ethernet communication
 * Serving a web interface for access event visualization
+<img width="614" height="546" alt="image" src="https://github.com/user-attachments/assets/f713a96c-c390-44d7-8e7d-c4b4fda486bc" />
+
 
 ### RFID Components
 
