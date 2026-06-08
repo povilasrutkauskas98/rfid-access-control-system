@@ -5,16 +5,27 @@ The ST25TV IC is connected to a custom-designed 1.38 µH PCB antenna tuned to 13
 Features:
 
 Passive NFC/RFID tag
+
 No battery required
+
 Custom PCB antenna
+
 Operating frequency: 13.56 MHz
+
 ISO15693 compliant
+
 ISO18000-3 compliant
+
 Low-cost implementation for access control systems
-Hardware
+
+Hardware:
+
 IC: ST25TV
+
 Antenna inductance: 1.38 µH
+
 Antenna type: PCB loop antenna
+
 Communication range: Short-range NFC/RFID
 
 <img width="635" height="317" alt="image" src="https://github.com/user-attachments/assets/3c8d5924-09a0-4071-b65d-bc4fe039a70e" />
