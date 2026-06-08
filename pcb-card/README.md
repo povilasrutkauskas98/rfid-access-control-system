@@ -2,7 +2,8 @@ The identification card is based on the ST25TV NFC/RFID tag integrated circuit. 
 
 The ST25TV IC is connected to a custom-designed 1.38 µH PCB antenna tuned to 13.56 MHz. Communication between the card and the reader is performed using the ISO15693 and ISO18000-3 standards.
 
-Features
+Features:
+
 Passive NFC/RFID tag
 No battery required
 Custom PCB antenna
