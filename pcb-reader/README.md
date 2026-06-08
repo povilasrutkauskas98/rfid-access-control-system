@@ -6,9 +6,8 @@ The ST25R3911 provides low power consumption, high receiver sensitivity, and fas
 
 The reader communicates with the STM32F407VG microcontroller via the SPI interface, where card identifiers are processed and forwarded to the Ethernet module for transmission to the web-based access control system.
 
-<img width="303" height="436" alt="image" src="https://github.com/user-attachments/assets/52ac0435-73a4-43fb-8894-e4c3315621d1" 
+<img width="303" height="436" alt="image" src="https://github.com/user-attachments/assets/0b24e858-4851-44bd-bc3f-f3d12b36b54e" />
 
-<img width="323" height="444" alt="image" src="https://github.com/user-attachments/assets/941160fe-4461-4fff-9419-9f47fda4d57a" />
-
+<img width="323" height="444" alt="image" src="https://github.com/user-attachments/assets/39ca8aa7-51dd-4f2f-82f6-93dc7e648e78" />
 
 
